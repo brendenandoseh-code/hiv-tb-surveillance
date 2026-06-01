@@ -32,7 +32,7 @@ One row per country per year, 2000–2024. Key WHO metrics: TB incidence per 100
 | **Lesotho** | **548** | **62%** |
 | Timor-Leste | 496 | 1% |
 
-The other high-burden countries have a *TB* problem. Lesotho has an **HIV-and-TB** problem — **62%** of its TB cases are co-infected, essentially tied with Zimbabwe for the **highest in the world.** That's not a TB program; that's an integrated HIV/TB program, which is exactly how the clinic I worked in operated.
+The other high-burden countries are mostly facing TB on its own. Lesotho's is tied to HIV: **62%** of its TB cases are co-infected, essentially tied with Zimbabwe for the highest share in the world. In practice that calls for integrated HIV/TB services rather than a standalone TB program, which is how the clinic I worked at was actually run.
 
 **2. Real progress — but lagging the neighborhood.** Lesotho cut TB incidence **54%** since 2010 (1,180 → 548 per 100k). Genuine improvement — but its peers moved faster:
 
