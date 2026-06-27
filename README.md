@@ -3,6 +3,7 @@
 **Author:** Brenden Andoseh · [LinkedIn](https://www.linkedin.com/in/brenden-andoseh-189484177/)
 **Stack:** SQL (SQLite) · Python (stdlib) · Tableau
 **Data:** [WHO Global Tuberculosis Programme — TB burden estimates](https://www.who.int/teams/global-tuberculosis-programme/data) (217 countries, 2000–2024)
+**Live dashboard:** [Tableau Public](https://public.tableau.com/app/profile/brenden.andoseh/viz/HIV-TBSurveillance/Dashboard1)
 
 > I spent two years as a Peace Corps Health Volunteer at a clinic in Lesotho working on HIV and TB. This project takes the question I lived day-to-day — *how bad is the HIV-driven TB epidemic, and is it getting better?* — and answers it with WHO's global surveillance data.
 
