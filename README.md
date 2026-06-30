@@ -1,7 +1,7 @@
 # HIV/TB Surveillance: A Population-Health Analysis
 
 **Author:** Brenden Andoseh · [LinkedIn](https://www.linkedin.com/in/brenden-andoseh-189484177/)
-**Stack:** SQL (SQLite) · Python (stdlib) · Tableau
+**Stack:** SQL (SQLite **+ BigQuery**) · Python (stdlib) · Tableau — *also runs on BigQuery, see [`bigquery/`](bigquery/)*
 **Data:** [WHO Global Tuberculosis Programme — TB burden estimates](https://www.who.int/teams/global-tuberculosis-programme/data) (217 countries, 2000–2024)
 **Live dashboard:** [Tableau Public](https://public.tableau.com/app/profile/brenden.andoseh/viz/HIV-TBSurveillance/Dashboard1)
 
