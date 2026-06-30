@@ -19,7 +19,7 @@ One row per country per year, 2000–2024. Key WHO metrics: TB incidence per 100
 1. **Load** the WHO CSV into SQLite, keeping the 12 relevant columns (`build.py`).
 2. **Clean** with a SQL view (`sql/01_create_and_load.sql`) — numeric casts, readable WHO-region names, a southern-Africa peer flag.
 3. **Analyze** with six queries (`sql/02_analysis.sql`) → six Tableau-ready CSVs.
-4. **Visualize** in Tableau (`tableau/DASHBOARD_GUIDE.md`).
+4. **Visualize** in Tableau Public (live dashboard linked above).
 
 ## Key findings *(real WHO figures)*
 
@@ -64,7 +64,7 @@ So the honest read is "improving, but underperforming comparable countries" — 
 # data/WHO_TB_burden_estimates.csv is the real WHO download (re-fetch anytime):
 #   https://www.who.int/teams/global-tuberculosis-programme/data  ->  "TB burden estimates"
 py build.py                 # loads, cleans, runs SQL, writes outputs/
-# then open Tableau and follow tableau/DASHBOARD_GUIDE.md
+# then build the dashboard in Tableau Public
 ```
 
 ## Files
@@ -75,6 +75,5 @@ hiv-tb-surveillance/
 ├─ data/WHO_TB_burden_estimates.csv  ← real WHO source
 ├─ sql/01_create_and_load.sql   ← schema + cleaning view
 ├─ sql/02_analysis.sql          ← 6 analysis queries
-├─ outputs/                 ← Tableau-ready CSVs (generated)
-└─ tableau/DASHBOARD_GUIDE.md   ← step-by-step dashboard build
+└─ outputs/                 ← Tableau-ready CSVs (generated)
 ```
